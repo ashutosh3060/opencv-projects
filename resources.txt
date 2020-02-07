@@ -9,3 +9,6 @@ https://github.com/akshaybhatia10/ComputerVision-Projects
 
 # Analytics Vidhya blog
 https://www.analyticsvidhya.com/blog/2019/03/opencv-functions-computer-vision-python/
+
+# Paid projects
+https://www.pantechsolutions.net/opencv-projects
