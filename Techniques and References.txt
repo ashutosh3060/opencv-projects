@@ -1,14 +1,27 @@
 # Techniques:
 Image Matching:
 https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8337998/8346308/8346440/8346440-table-2-source-large.gif
+https://www.kaggle.com/wesamelshamy/tutorial-image-feature-extraction-and-matching
 
 Feature Extraction from Image:
 https://www.kaggle.com/lorinc/feature-extraction-v4
 https://www.kaggle.com/lorinc/feature-extraction-from-images
+https://stackoverflow.com/questions/52153979/feature-extraction-and-take-color-histogram
+https://www.analyticsvidhya.com/blog/2015/01/basics-image-processing-feature-extraction-python/
 
 # Similar Image Search:
 https://colab.research.google.com/drive/1BwdSConGugBlGzPLLkXHTz2ahkdzEhQ9
 https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774
+
+# Color Idenitification in Images:
+https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
+
+# Quantify an Image using feature Vector:
+https://www.pyimagesearch.com/2014/03/03/charizard-explains-describe-quantify-image-using-feature-vectors/
+
+# Color Idenitification in Images:
+https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
+
 
 
 # References:
