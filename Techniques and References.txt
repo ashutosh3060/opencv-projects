@@ -19,6 +19,8 @@ https://towardsdatascience.com/color-identification-in-images-machine-learning-a
 # Text Extraction from Image:
 https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
 pytesseract
+# Logo Extraction
+https://towardsdatascience.com/logo-detection-in-images-using-ssd-bcd3732e1776
 
 # Quantify an Image using feature Vector:
 https://www.pyimagesearch.com/2014/03/03/charizard-explains-describe-quantify-image-using-feature-vectors/
