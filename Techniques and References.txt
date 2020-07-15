@@ -16,11 +16,12 @@ https://medium.com/machine-learning-world/feature-extraction-and-similar-image-s
 # Color Idenitification in Images:
 https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
 
+# Text Extraction from Image:
+https://www.pyimagesearch.com/2017/07/10/using-tesseract-ocr-python/
+pytesseract
+
 # Quantify an Image using feature Vector:
 https://www.pyimagesearch.com/2014/03/03/charizard-explains-describe-quantify-image-using-feature-vectors/
-
-# Color Idenitification in Images:
-https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71
 
 
 
