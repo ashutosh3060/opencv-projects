@@ -4,6 +4,10 @@ https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8337998/8346308/83
 
 Feature Extraction from Image:
 https://www.kaggle.com/lorinc/feature-extraction-v4
+https://www.kaggle.com/lorinc/feature-extraction-from-images
+
+# Similar Image Search:
+https://colab.research.google.com/drive/1BwdSConGugBlGzPLLkXHTz2ahkdzEhQ9
 
 
 # References:
