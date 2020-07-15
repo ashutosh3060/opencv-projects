@@ -8,6 +8,7 @@ https://www.kaggle.com/lorinc/feature-extraction-from-images
 
 # Similar Image Search:
 https://colab.research.google.com/drive/1BwdSConGugBlGzPLLkXHTz2ahkdzEhQ9
+https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774
 
 
 # References:
