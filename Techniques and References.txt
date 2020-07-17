@@ -25,6 +25,10 @@ https://towardsdatascience.com/logo-detection-in-images-using-ssd-bcd3732e1776
 # Quantify an Image using feature Vector:
 https://www.pyimagesearch.com/2014/03/03/charizard-explains-describe-quantify-image-using-feature-vectors/
 
+# Image Analysis techniques:
+Morphological Transformations
+Geometrical Transformations etc
+
 
 
 # References:
